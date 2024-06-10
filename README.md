@@ -26,7 +26,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victtoriacorreia01&layout=compact)
 
 #### Transformando ideias em experiências digitais inovadoras e acessíveis.
 

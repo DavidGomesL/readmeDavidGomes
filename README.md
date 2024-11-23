@@ -26,6 +26,7 @@
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img align="center" alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
     <img align="center" alt="Twig" src="https://img.shields.io/badge/Twig-339933?style=for-the-badge&logo=twig&logoColor=white"/>
+    <img align="center" alt="SQL" src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white"/>
 </div>
 
 

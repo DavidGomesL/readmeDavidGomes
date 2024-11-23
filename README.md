@@ -1,10 +1,10 @@
-### Olá meu nome é Victtoria Correia 😊
+### Olá meu nome é David Gomes
 
-[![Portifolio](https://img.shields.io/website-vic-down-purple-pink/https/portvic.vercel.app.svg)](https://portvic.vercel.app/)
+[![Portifolio](https://img.shields.io/website-david-down-purple-pink/https/portfolio-lac-nu-36.vercel.app.svg)](https://portfolio-lac-nu-36.vercel.app/)
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victtoria_correia?igsh=MWhxZWN6Z2U3MHVvNg%3D%3D&utm_source=qr)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victtoria-correia-3268v/)
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victtoria_correia?igsh=MWhxZWN6Z2U3MHVvNg%3D%3D&utm_source=qr) -->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-gomes-b219b4210)
 
 ## Tecnologias que uso no meu dia 💻
 
@@ -19,19 +19,19 @@
     <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
     <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
     <img align="center" alt="Material-UI" src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white"/>
-    <img align="center" alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+    <img align="center" alt="Twig" src="https://img.shields.io/badge/Twig-339933?style=for-the-badge&logo=twig&logoColor=white"/>
 </div>
 
 
 <br>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Victtoriacorreia01&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidGomesL&layout=compact)
 
 #### Transformando ideias em experiências digitais inovadoras e acessíveis.
 
 ## Meus projetos favoritos!
 
-[![projeto1](https://img.shields.io/badge/Milk-000000?style=for-the-badge&logo=About.me&logoColor=red)](https://landing-page-dusky-chi-33.vercel.app/) 
-[![projeto2](https://img.shields.io/badge/Carrinho-FF69B4?style=for-the-badge&logo=About.me&logoColor=black)](https://carrinho-react-theta.vercel.app/)
-[![projeto3](https://img.shields.io/badge/REKTER-00?style=for-the-badge&logo=About.me&logoColor=black)](https://victtoriacorreia01.github.io/website-completo-rektr/)
-[![projeto3](https://img.shields.io/badge/Login-1E90FF?style=for-the-badge&logo=About.me&logoColor=black)](https://victtoriacorreia01.github.io/formulario-login-avan/)
+[![projeto1](https://img.shields.io/badge/casamaze-000000?style=for-the-badge&logo=About.me&logoColor=red)](https://www.casamaze.com.br/) 
+[![projeto2](https://img.shields.io/badge/muyguapa-FF69B4?style=for-the-badge&logo=About.me&logoColor=black)](https://www.muyguapa.com.br/)
+[![projeto3](https://img.shields.io/badge/isgm-00?style=for-the-badge&logo=About.me&logoColor=black)](http://isgm.com.br/)
+[![projeto3](https://img.shields.io/badge/levitatech-1E90FF?style=for-the-badge&logo=About.me&logoColor=black)](https://levitatech.com.br/)

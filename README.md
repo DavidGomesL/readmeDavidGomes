@@ -2,9 +2,15 @@
 
 [![Portifolio](https://img.shields.io/website-david-down-purple-pink/https/portfolio-lac-nu-36.vercel.app.svg)](https://portfolio-lac-nu-36.vercel.app/)
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+<a href="mailto:davidgomes1194@gmail.com">
+  <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<br/>
 <!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/victtoria_correia?igsh=MWhxZWN6Z2U3MHVvNg%3D%3D&utm_source=qr) -->
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/david-gomes-b219b4210)
+<a href="https://www.linkedin.com/in/david-gomes-b219b4210" target="_blank" rel="noopener noreferrer">
+  <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
 
 ## Tecnologias que uso no meu dia 💻
 

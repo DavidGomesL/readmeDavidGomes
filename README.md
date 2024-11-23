@@ -1,4 +1,4 @@
-### Olá meu nome é David Gomes
+### Olá meu nome é David Gomes 👨🏻‍💻
 
 [![Portifolio](https://img.shields.io/website-david-down-purple-pink/https/portfolio-lac-nu-36.vercel.app.svg)](https://portfolio-lac-nu-36.vercel.app/)
 
